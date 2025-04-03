@@ -3,3 +3,6 @@
 
 #.exe
 *.exe
+
+#etc
+test.cpp
